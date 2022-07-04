@@ -1,0 +1,20 @@
+{
+  "name": "bg-remover",
+  "version": "1.0.0",
+  "description": "Open Source Image Background Remove utility build with Nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobomurod/bg-remover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobomurod/bg-remover/issues"
+  },
+  "homepage": "https://github.com/bobomurod/bg-remover#readme"
+}
